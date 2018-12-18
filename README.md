@@ -1,2 +1,2 @@
 # gestion-matriel-informatique 
-mini project c++ for hardware management of a computer company
+mini project c++ for hardware management for a computer company
