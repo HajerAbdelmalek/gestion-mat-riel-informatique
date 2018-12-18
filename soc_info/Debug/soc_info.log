@@ -1,0 +1,20 @@
+﻿Build started 29/04/2017 12:00:29.
+     1>Project "C:\Users\hajer\Desktop\final\soc_info\soc_info\soc_info.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\soc_info.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\soc_info.unsuccessfulbuild".
+         Touching "Debug\soc_info.lastbuildstate".
+     1>Done Building Project "C:\Users\hajer\Desktop\final\soc_info\soc_info\soc_info.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.36
