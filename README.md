@@ -1,3 +1,2 @@
-# gestion-mat-riel-informatique
-mini projet c++ pour la gestion des matériels informatiques 
+# gestion-mat-riel-informatique 
 mini project c++ for hardware management of a computer company
